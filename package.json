@@ -15,7 +15,7 @@
     "redux-promise": "^0.5.3",
     "redux-thunk": "^2.2.0",
     "superagent": "^3.5.2",
-    "lodash": "0.0.3"
+    "lodash": "4.17.11"
   },
   "devDependencies": {
     "react-scripts": "1.0.7"
