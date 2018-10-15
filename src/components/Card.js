@@ -10,7 +10,7 @@ class Card extends React.Component {
             <div className="card">
                 <div>
                     <Link to={`/repo/${id}`}>
-                        { full_name }
+                        {uifib }
                     </Link>
                 </div>
                 <div>
